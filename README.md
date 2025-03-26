@@ -1,8 +1,10 @@
-# React + Vite
+Проект представляет собой React-приложение для отслеживания криптовалютного портфеля, которое позволяет пользователям:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Просматривать актуальные рыночные данные по криптовалютам
 
-Currently, two official plugins are available:
+Отслеживать свои криптовалютные активы
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Контролировать доходность портфеля
+
+Добавлять новые активы в портфель
+
